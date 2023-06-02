@@ -1,0 +1,2 @@
+FNV1AFM Collision Count;HDMC Collision Count;FNV1AFM Running Time;HDMC Running Time;BST Running Time
+6;5;22.0;20.0;15.0
